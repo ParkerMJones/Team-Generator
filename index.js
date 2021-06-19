@@ -142,7 +142,7 @@ function generatePage() {
 </head>
 <body>
     <div class="container-fluid d-flex" id="header">
-        <h1 class="column-md-12">${addManager.teamName}</h1>
+        <h1 class="column-md-12">${Manager.name}</h1>
     </div>
 
     <div class="container" id="top-row">
@@ -153,9 +153,9 @@ function generatePage() {
                     <p class="card-text"><i class="fas fa-mug-hot"></i> Manager</p>
                 </div>
                 <ul class="list-group">
-                    <li class="list-group-item">ID: </li>
-                    <li class="list-group-item">Email: </li>
-                    <li class="list-group-item">Office #: </li>
+                    <li class="list-group-item">ID: ${Manager.id}</li>
+                    <li class="list-group-item">Email: ${Manager.email}</li>
+                    <li class="list-group-item">Office #: ${Manager.officeNumber}</li>
                 </ul>
             </div>
     `
