@@ -22,3 +22,5 @@ class Employee {
         return this.title;
     }
 }
+
+module.exports = Employee;
