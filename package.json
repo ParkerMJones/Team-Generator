@@ -1,0 +1,22 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "Generates a chain of command tree with input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkerMJones/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkerMJones/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/ParkerMJones/Team-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
