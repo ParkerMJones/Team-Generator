@@ -14,6 +14,7 @@
   ### Usage
   Description: Enter details about your organization and employees.  Team Generator will create a team roster with employee information, including ID numbers, links to email and github pages, and more.
 
+  ![Demo](./Team_Generator_Demo.gif);
   ### Contributors
   
 
